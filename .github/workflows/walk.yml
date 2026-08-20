@@ -26,10 +26,11 @@ concurrency:
 
 jobs:
   walk:
-    uses: glennpratt/pulumi2nix/.github/workflows/index-walk.yml@4cb53845df9f6ad4278c11e2fb928313d9020d65
+    uses: glennpratt/pulumi2nix/.github/workflows/index-walk.yml@7dda3438036727a20d249012e26731ce7c047a58
     permissions:
       contents: write
       issues: write
+      id-token: write # the reusable workflow reads its pin from the OIDC claim
     with:
       provider: ${{ inputs.provider || '' }}
       max-artifacts: ${{ fromJSON(inputs.max-artifacts || '800') }}
