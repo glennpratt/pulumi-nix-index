@@ -1,0 +1,36 @@
+# All walk/verify/commit/alarm logic lives in pulumi2nix's reusable workflow;
+# this repo stays data-only. The @SHA pin governs both the workflow steps AND
+# the walker binary (an attested release built from that same commit) — bump
+# it only via reviewed PRs, and only to SHAs that have a walker release.
+name: walk
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      provider:
+        description: "Demand lane: index this provider now (name or name@version)"
+        required: false
+      max-artifacts:
+        description: "Backfill budget: tarballs to hash this run"
+        required: false
+      max-seconds:
+        description: "Backfill budget: wall-clock seconds"
+        required: false
+
+# Single writer: cron and demand runs queue behind each other.
+concurrency:
+  group: index-writer
+  cancel-in-progress: false
+
+jobs:
+  walk:
+    uses: glennpratt/pulumi2nix/.github/workflows/index-walk.yml@68bc7f4a2f9adb2d5bcbb4225a5804613927b5ea
+    permissions:
+      contents: write
+      issues: write
+    with:
+      provider: ${{ inputs.provider || '' }}
+      max-artifacts: ${{ fromJSON(inputs.max-artifacts || '800') }}
+      max-seconds: ${{ fromJSON(inputs.max-seconds || '3600') }}
