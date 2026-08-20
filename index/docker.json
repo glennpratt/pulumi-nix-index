@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "docker",
+  "entries": {
+    "5.1.0": {
+      "observedAt": "2026-08-20T22:21:53.332141964+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-/cTqFcaVMjwW9jjE4F6og8eDtCBgFCWWWxWVXcd6vrw=",
+        "darwin-arm64": "sha256-IEwm1Gb45h/moCtzmDhMHrhDuA/GmFvesuBKRcX/WTc=",
+        "linux-amd64": "sha256-dGb9N/LslhdzqgHXS15Ub738hZ8G6JfJnHzMal3I8nw=",
+        "linux-arm64": "sha256-RF7DYV5ohK0vbTpTKyXOhkJ7oyiVzuoZ5kJ7qG/YJjg="
+      }
+    }
+  }
+}

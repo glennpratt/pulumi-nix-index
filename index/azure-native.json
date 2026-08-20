@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "azure-native",
+  "entries": {
+    "3.26.0": {
+      "observedAt": "2026-08-20T22:21:53.332141964+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-4NH4z83sxQo20EXWybkekFE3J+N+HbvyVKcg/ic3fPM=",
+        "darwin-arm64": "sha256-SuKrLnodQeh332EbETg6R3nQkJGLvSicDBiy4/c/yHY=",
+        "linux-amd64": "sha256-9Gfj35bLEmE5RiP6m1MmifYpysfsyKfbzOfoWS7FZOM=",
+        "linux-arm64": "sha256-zfRua/QqZR6Jb8MFDHrNsHs8Oe3SLd+aEu/QWjeak/Q="
+      }
+    }
+  }
+}

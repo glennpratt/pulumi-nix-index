@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "cloudflare",
+  "entries": {
+    "6.19.0": {
+      "observedAt": "2026-08-20T22:21:53.332141964+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-tHF5AWy8ZFDSS2tRAov/n24l/u2FwP8IIB8K22qDzf4=",
+        "darwin-arm64": "sha256-pjZBLklItTrUvvQFhsBq26HC7l8Uyo342wYTXql52Bc=",
+        "linux-amd64": "sha256-owhN1SXxTSQgVYKahkyhVKsWri5QgxesSuwAtLYEAPQ=",
+        "linux-arm64": "sha256-y0CCbkIMyKaGQlSMi+utdNEzncE8P03USzeCuL0z19I="
+      }
+    }
+  }
+}

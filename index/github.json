@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "github",
+  "entries": {
+    "6.15.0": {
+      "observedAt": "2026-08-20T22:21:53.332141964+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-IiK8qHfXaGENZDqcMkbdjuVFNNhxZeGn58h7fl64gtw=",
+        "darwin-arm64": "sha256-+BlE7VKg9XT72FNxK5unIKrxrhAhADtfQC8hKNZUKUU=",
+        "linux-amd64": "sha256-UsmYM6t8XuVnoOwGcxA4ruQ2vk1dq9C3F6rNoeOb7n8=",
+        "linux-arm64": "sha256-L8UnPQlTnq5nHmCycbvCkFsnby5BeaL2pbHY0Lx1ngI="
+      }
+    }
+  }
+}
