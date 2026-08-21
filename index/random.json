@@ -470,6 +470,458 @@
         "linux-amd64": "sha256-ss7oKb6QkglkVyk7/RqA0L8VGJGVrnDG/UgqzpM+UF0=",
         "linux-arm64": "sha256-D1RVKDDtw8nZ1uKCx2nujWf9pfmNuX/qr56vfZXT47M="
       }
+    },
+    "3.2.0": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-jEY4uaUbhIq/jn5iJp2NLlPg0vp1SGgc+l98iHLK27w=",
+        "darwin-arm64": "sha256-DAvkpI4vDBz2Eo9IG1mNV5VkiES+JSp2k7KB3o9oqis=",
+        "linux-amd64": "sha256-PnTWsJq4mGxc7FaqzWd0ZoG/sTDXGH93G9SL20HfbG8=",
+        "linux-arm64": "sha256-qoVEEsWlWYVdBypeM70dCpFOihiGZNO8r1btSo/mCcM="
+      }
+    },
+    "3.1.1": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-7qRwrZ5j1waYwNL4AwdeBS+BqB2LjizaRVelGv58YMg=",
+        "darwin-arm64": "sha256-P6lxw9K+2BW0vrCCXrdljAdnAW+vPJaS48EqmOqsAFU=",
+        "linux-amd64": "sha256-6CBkwkJRMUi3DqpXNYZVE6mqmTkP3+s/hRZu+dqm/P4=",
+        "linux-arm64": "sha256-TWxselFvVhl8M2+GUqC4T62CeR2X1pQbz8OTd7YS7iY="
+      }
+    },
+    "3.1.0": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-NROq98FlxqKhaGfd2DAFjwCJ9OcZuocIAbwpe5fz9hE=",
+        "darwin-arm64": "sha256-h+k3OBS9FvFpMEAKUckPjvLQ5NuYztziEoOKaxfqU0I=",
+        "linux-amd64": "sha256-SwORj1peQUo4ubJM6/uhcLNRWeQt2axs6WUsqAxvlMc=",
+        "linux-arm64": "sha256-IRZNWLX25cK/cvPBwO1vbpwfKSD2dDTkuJj6434+cMg="
+      }
+    },
+    "3.0.3": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-J5sFTgKxGILxt+/rxdiD+AFa9Ab3uNGdT1O0+a4qnqw=",
+        "linux-amd64": "sha256-dc0xE0eGGE8YBDB/i0l72y5DEp9prxZ85/Ggcy8rWV0=",
+        "linux-arm64": "sha256-waileswMAVr1/4Gx8c77gFAHutkWwKtFaHO/87zQHYE="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "3.0.2": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-GjUt358tq08XVEwl27RJpiwszh/JH0bIwhHRUVepeJY=",
+        "linux-amd64": "sha256-wiC53wOS7ZPTVKhzBxiWjK8c4+txnuhklOkAZWd2KNE=",
+        "linux-arm64": "sha256-2JP3I23SvYx3knXDhMCxp1Ksz02hlMNQALqdxdc+sHY="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "3.0.1": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-2xH4EX1fgoO0QZJ7ZpoTN3gvezz84jRB6ZByODFEpzQ=",
+        "linux-amd64": "sha256-UNM6w+GosqIc81b2uxWLuPMg75BGylV0I+ko/SdJ+0o="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "3.0.0": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-9zvpbBLgQYnb8Rvjqh1dgrcevGP9rNG/JOR7wOZPSqQ=",
+        "linux-amd64": "sha256-Xpdu035p29zdOGUlLPUpphcDlKKM64WGJ8Db2lF1EeE="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.5.0": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-CuPEIBF7ChFlOkVHVr+x63oaePN2ZymuicqrTaQPcuk=",
+        "linux-amd64": "sha256-fAJeJM8s6BIKPHin4HM+TsZUnPXbAUVbAubZDrlRlBk="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.4.4": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-g/pSMXB9jK+/pbbui8gN1fLVu937txx8XHh1UKNxO2k=",
+        "linux-amd64": "sha256-YyzzaA1AjxFyxrnuLa7P0jGp+XsP1iTPcv1r1ydynJk="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.4.3": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-EWIUfS9VWjjehYSE9/gI3qMm+EQlGnAnuIou7xAurQg=",
+        "linux-amd64": "sha256-hOYUy5aahZJNWPvr/r6RmQsGt2crmb0zpsQ6Af0u9+8="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.4.2": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-mMB4CemnCmccar1X+19c/rCUxqpvKFKMQZTBzZKS5zg=",
+        "linux-amd64": "sha256-PBKRVw+cQA6JGrFaMIB2HgnUNgNDLGd+/NaVAW8luAs="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.4.1": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-u174Ey+Krz5JgN+5ac+EE4Ikfb1zO8IlVty6j1qFApU=",
+        "linux-amd64": "sha256-JUFv0ym/KpCIfA00US7tXUgvqb9jKOrUaLDxzydBNT4="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.4.0": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-KFY1ro+dBkCy8ZZQTtTld3R+Mp30mMJk9AypW62NJEc=",
+        "linux-amd64": "sha256-yDNe8RyCeVo3f1zr+sE6xdUabnu4+3BBQTdUi2wmDH0="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.3.1": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-yU7t3KXYBGczeLOcR8UGqXivgQRkEs9zwM26e/2m1VY=",
+        "linux-amd64": "sha256-EVvLBDmbTaMDcvc7PRU9zyPzJG5vKRZ2S1ClSJJWA3c="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.3.0": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-wY1ZeyvzGH3FpxIsCF1lus/AUKAGhAp3ibAQMajV7jA=",
+        "linux-amd64": "sha256-AE2j8ptj1byJKK0SdCAzrj8EREuC4eifMMx5SDw0gjU="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.2.0": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-Bx6Hnb8thYtjToR8OYr0ALaD0B4NOhWw57IVHqy4XX0=",
+        "linux-amd64": "sha256-8pHKvDN4tJorVWKnXeiqhjmkxmfHBPmbRSv4XFfR3nA="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.1.4": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-yxZqE7NPlzjkk5Ad2NxCEParGVnt6r3karcINxqVHrk=",
+        "linux-amd64": "sha256-qwWfRBWrVNatKB7RvAbM+77UENngkhhI1hBf46G45k8="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.1.3": {
+      "observedAt": "2026-08-21T18:57:37.597833991+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-/tdFvyweRftdGAK8ZN0PgLyXGLQuL0CsWm9jFc4rJ/c=",
+        "linux-amd64": "sha256-xRsD+jshtNgGQrjtu8rNIB2gQ1iS73H7TvYqkAIqwiI="
+      },
+      "misses": {
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.1.2": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.1.1": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.1.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "2.0.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "1.7.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "1.6.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "1.5.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "1.4.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "1.3.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "1.2.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "1.1.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "1.0.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.5.8": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.5.7": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.5.6": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.5.5": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.5.4": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.5.3": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.5.2": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.5.1": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.5.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.4.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.3.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.2.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.1.0": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
+    },
+    "0.0.1": {
+      "observedAt": null,
+      "hashes": {},
+      "misses": {
+        "darwin-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "darwin-arm64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-amd64": "2026-08-21T18:57:37.597833991+00:00",
+        "linux-arm64": "2026-08-21T18:57:37.597833991+00:00"
+      }
     }
   }
 }
