@@ -109,6 +109,141 @@
         "linux-amd64": "sha256-nwEVDAJipD2TprTr+XRRzk5EgaEhoVA5fqm/lGANqos=",
         "linux-arm64": "sha256-acQcVo/G5ijJix9BHW7Bn8W86nU2bmAepneR/gdVGx4="
       }
+    },
+    "7.31.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-Ypk8TsCWuTewj8rWzZ7NLz57/NGE1AS5rkYiJs7vpT8=",
+        "darwin-arm64": "sha256-6HD3q9aoEimwSWcBEIf9v9x+q3METT8Dt+CCrI+bxDU=",
+        "linux-amd64": "sha256-BY8wudOEexvGh+QoMq7cWh3YIhuph8IWLy4tlLSnGtc=",
+        "linux-arm64": "sha256-EBjHMKDnQNCrt897TQc1bsztSzOnk6PxuYzC6WRWtMk="
+      }
+    },
+    "7.30.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-8unNvT6mRhrL8Sa4RX0HCTVA9F16QX6trsSiKEwiX9o=",
+        "darwin-arm64": "sha256-+vKlxVh36RIk0GzlAiV16Fa8luQId/E6Fm8CPmFmVRk=",
+        "linux-amd64": "sha256-Ic7B7D8VI0uBjCHeFtf8hnO+ZGIrzpXNRSMn4iXTlKU=",
+        "linux-arm64": "sha256-owj45gl57sIvRprRLNuIWWF/+Wk99EzllHys5t8Xo4A="
+      }
+    },
+    "7.29.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-sptZT9qhc2MrNWkjK6MyI/wIB0C6aFex9SFmZ/8/ID8=",
+        "darwin-arm64": "sha256-QrwwAAfaFbxy3h4lhfhZuB6SuggfScSyFbLXledPCvM=",
+        "linux-amd64": "sha256-yutG6yZkp8OjkhD0aipzkHVf25dzNrnVspMxdGYeRio=",
+        "linux-arm64": "sha256-YSOyDoGBxr7IQ0Q0rZfRxcUTU29+wdeUvus/RKtdwB8="
+      }
+    },
+    "7.28.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-d3lIS/siIys8foSVvzo/iOUzHE3qoJjVbzEcJ1KYJvY=",
+        "darwin-arm64": "sha256-IzGNcen4sG/i3mU96aOGk2LbDKk6R5BWts+EzKOrLdk=",
+        "linux-amd64": "sha256-6egqzHi5nKufqK/Y8DNHFirkmNqaT1bd0Rv696YMi+U=",
+        "linux-arm64": "sha256-lIeWflDSurXgQen8UJkT+xst3mkxL/NT7AEpEw0kbyo="
+      }
+    },
+    "7.27.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-etHKhhOygMkwOU0Kl8E41hCerr8XUJoV0Cc2u9PiGyg=",
+        "darwin-arm64": "sha256-RIccemhVCYomE7CRkPyninwGWH5Luz8GPM+vyJrUNVA=",
+        "linux-amd64": "sha256-ZiIVhHml8Dh3kz+ybfi8bHk90rv4QVJ+ymmejo5i/b8=",
+        "linux-arm64": "sha256-Q/FGkr3R3O4R5BPpB0ISCkHjU3Z+eV9Wyrn8dJUXce0="
+      }
+    },
+    "7.26.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-KlKkKlwyNHSd7d+AvfM7vPvSPHgXX8eFQVCruWVobwU=",
+        "darwin-arm64": "sha256-U/juwWzAr8vl1072kN6vKSE2Tr7+G2Vpc9aEwr7ic3Q=",
+        "linux-amd64": "sha256-lKxoh7UrMIhcgl6SE+OY70DAQsDJPLhxRZWHJUqEpmU=",
+        "linux-arm64": "sha256-dgaxZCaV76PgMDoMGSdnovajbxq96ewTG+b+I9DFHhQ="
+      }
+    },
+    "7.25.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-GPbbDBOmxOfl/WeATZrVnXPme4mtm9BeVDj0JPWM1OU=",
+        "darwin-arm64": "sha256-/dFWevH+7wFHnbuw5cMhYjz0J7ePiBzzihT0S+xWLlg=",
+        "linux-amd64": "sha256-+Mv9sowdw6FzjmcEFbMHMvWjjj1Unt5Ql4xOCNslyVw=",
+        "linux-arm64": "sha256-pyVZnnlzgnEKFf6n/bJeSCeKiZjQmA+ZcyjQQJ5vdc4="
+      }
+    },
+    "7.24.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-E1YMyJHcYZalE6NgF2lUBPPtpBS05Cdsfq6iJnGdnLA=",
+        "darwin-arm64": "sha256-5Q25FjDNPwUnGr5aVJ5s7Ba8gIgdR6hbDWttcUm5ZQg=",
+        "linux-amd64": "sha256-c7YTpFmDLTpQf+B5vAE0V/mdPOZ4jq+pmcmh3r5jXww=",
+        "linux-arm64": "sha256-WX0FC5SnwJJy0qtJHoXdpVQc1tr129RopWw1FgdX2Hw="
+      }
+    },
+    "7.23.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-QYXyGQP3rSbu29QRyWeR+kj2zZDKcuJ+6xShJMvf7hA=",
+        "darwin-arm64": "sha256-etaM8lqLKAVZYTr5KiRb9NoVNsBqtttjM8gEtY6ZFWs=",
+        "linux-amd64": "sha256-9cWFFSu6zxGgwCN2reEit+dAlemy+Y3SkcvsHYgOe0w=",
+        "linux-arm64": "sha256-xgcPjYrnQOYX3Y596XSznZ8n1PlwPsZ7VBOTJXIDRZI="
+      }
+    },
+    "7.22.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-c8OsxwyTiRgOq0cbsM7KiV2MAw5OhBL0d/e5urEPrUQ=",
+        "darwin-arm64": "sha256-pZyH6pYDHKnIBqLlE4WbplKFFdMT0yzeBpDdfbHKmDk=",
+        "linux-amd64": "sha256-xkpRNYg7za7YKde3kU77lhLX25DBNdPgh+wScvajJXA=",
+        "linux-arm64": "sha256-wKxltrbnTLiiEOzCGtMjqkw+1s/6BTN3nFUFtbJI5Gk="
+      }
+    },
+    "7.21.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-ovj0w5ZWG++SjY2vlHMh8qrfoeBfidRlN0aejGVBjbw=",
+        "darwin-arm64": "sha256-1lyq8L5RVMxtU41IXp17yw3ZlZ3yAU++DCbFeySyc1o=",
+        "linux-amd64": "sha256-7aLLiweU7I0qzz3OgQ1d1bAbaR00g6mXxJgexZg+HYk=",
+        "linux-arm64": "sha256-YY60iZhc5EygMk6Q2PF153MF4qoiPN3oepzjx+Q+698="
+      }
+    },
+    "7.20.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-v8ldt+5IxVotBwP6tCO3qDkzjWIutDgNal6QOASzqBc=",
+        "darwin-arm64": "sha256-bcpM7l7fKZmYE8Fi2FL19Th107xUTUGMxXWnVTlrWyI=",
+        "linux-amd64": "sha256-CgHtpXhhrn/PTAcij3YplU/4j6ewySMt65KyMMjCrOI=",
+        "linux-arm64": "sha256-80jUlouLsaiMO1VvrC41NIur14vAsRVYi2Fc+F66wyU="
+      }
+    },
+    "7.19.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-lRpH1KY4cmQ/Rvmr7iTDVadowJv1rravmGUqctT/oE4=",
+        "darwin-arm64": "sha256-39P2Wkl11FP61y+DmDwiNblmBaJn/1gn+oEVn63cgUw=",
+        "linux-amd64": "sha256-yH54pWqS1oSc9/+Rv2KP3wsj5G4RvBNrpiC7PrfEKJY=",
+        "linux-arm64": "sha256-pQf+GEaQJwEfTjvJe6WRq068KpsHRq7hknMPqLqSPSg="
+      }
+    },
+    "7.18.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-QLz03BCTFhRXPNTrEe5OsmbDn+haEgnKEjiP1y+7dMc=",
+        "darwin-arm64": "sha256-c8XXgLWPVAukjT1ZddokcXQ/D8UMIYJiDeCUBImM48U=",
+        "linux-amd64": "sha256-PHE0JpHeydFmXDxY2fiwNT1ip/ADLzwj6QXa0clZNWc=",
+        "linux-arm64": "sha256-YCtm0pHAGp/SAscyoNZ6aEqlu4TTJHfW3pq4NfFgE4o="
+      }
+    },
+    "7.17.0": {
+      "observedAt": "2026-08-21T07:09:12.297129428+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-8BWjPeEnrqwbmAhP1iylG9B6LBOnV8tsLapSyo5FPbY=",
+        "darwin-arm64": "sha256-NgWA7jjDCnCELv5qKJmsB6/AXTu0Yjp4HZ6DiFZjN0s=",
+        "linux-amd64": "sha256-BmmJpIxgz2j6Gl1fAeQm4TtHpm9T33VhXyjmTtqoUYM=",
+        "linux-arm64": "sha256-ZYN8uVBE0rPmrS4R1Ik33SfkgqvDpJp4s4fEHkXTGdc="
+      }
     }
   }
 }
