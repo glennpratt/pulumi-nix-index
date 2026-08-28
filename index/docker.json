@@ -3,13 +3,12 @@
   "provider": "docker",
   "entries": {
     "5.1.1": {
-      "observedAt": null,
-      "hashes": {},
-      "misses": {
-        "darwin-amd64": "2026-08-27T22:17:12.372239882+00:00",
-        "darwin-arm64": "2026-08-27T22:17:12.372239882+00:00",
-        "linux-amd64": "2026-08-27T22:17:12.372239882+00:00",
-        "linux-arm64": "2026-08-27T22:17:12.372239882+00:00"
+      "observedAt": "2026-08-28T11:25:27.243848629+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-KEdGWGAKGV8vx9x4W9e1M7bmLCcieIuwLiQV2b7hejE=",
+        "darwin-arm64": "sha256-WAIMojZIDnXFZHOFPUVjTTougW75J/iaxK3VUDwG7do=",
+        "linux-amd64": "sha256-uiO20aG49amy+C3iqisWV8k8++An4XEQnbQFVmiq5B8=",
+        "linux-arm64": "sha256-bStUGsvX6SpZ6+8BFigVgbZg9BC3MALH8+qPLlIMSf4="
       }
     },
     "5.1.0": {

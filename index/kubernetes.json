@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "kubernetes",
   "entries": {
+    "4.34.0": {
+      "observedAt": "2026-08-28T11:25:27.243848629+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-4vg3wNv+734z1dO/MprEsYe2GpxMWKGax70GedK4m9Q=",
+        "darwin-arm64": "sha256-vmLXO+hFKHgS2x8WtW0B5sX9fgpmlh69dnVvLGWC6Zs=",
+        "linux-amd64": "sha256-zx6rUedl/7O2WjEDonI/uAEiTJdltwpxoRYv3JmYQzU=",
+        "linux-arm64": "sha256-qmqbFQPamgfyj2PnS+Eu76nf1kt0Rn7gGzrAcpCF1/A="
+      }
+    },
     "4.33.0": {
       "observedAt": "2026-08-20T22:21:53.332141964+00:00",
       "hashes": {
