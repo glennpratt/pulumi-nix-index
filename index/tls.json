@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "tls",
   "entries": {
+    "5.6.0": {
+      "observedAt": "2026-09-01T05:12:05.149017161+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-btb2zV/010x8cBYP9Qolu+6yUPXnDPa5tMAyJZC79nU=",
+        "darwin-arm64": "sha256-/1UjQAaPtmnUHA3N1iEAtkBFOV1Qlf0YjX8dX1aGFwg=",
+        "linux-amd64": "sha256-RVOtDGF6Jn6lDHv5MwhA6xxTihHNXIbGr//s233zujs=",
+        "linux-arm64": "sha256-aLR1NNbJI7fh1wRIoeWeYk/kprFEicRCTFYBI7NmjMg="
+      }
+    },
     "5.5.1": {
       "observedAt": "2026-08-21T01:58:39.497439205+00:00",
       "hashes": {
