@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "docker",
   "entries": {
+    "5.2.0": {
+      "observedAt": "2026-09-02T04:36:55.736415307+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-MQgIigx4x0tfCyZO9zJcsgfe2Hc0vqxAM/+sTUBPQAA=",
+        "darwin-arm64": "sha256-G6qmZIshI573kT/qIL36ocYy0S5wb1qOQkxSwNetL8w=",
+        "linux-amd64": "sha256-ztwyR6hEwS9ZlcaQjVkzOEVK7TaCngt4nwDN64jMuuo=",
+        "linux-arm64": "sha256-Ibgj5SIOQlBvNk1XOMGmYwDQxpF3jDlD3Pg8fkZCcYI="
+      }
+    },
     "5.1.1": {
       "observedAt": "2026-08-28T11:25:27.243848629+00:00",
       "hashes": {
