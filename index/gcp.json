@@ -3,13 +3,12 @@
   "provider": "gcp",
   "entries": {
     "9.36.1": {
-      "observedAt": null,
-      "hashes": {},
-      "misses": {
-        "darwin-amd64": "2026-09-03T16:27:12.474766542+00:00",
-        "darwin-arm64": "2026-09-03T16:27:12.474766542+00:00",
-        "linux-amd64": "2026-09-03T16:27:12.474766542+00:00",
-        "linux-arm64": "2026-09-03T16:27:12.474766542+00:00"
+      "observedAt": "2026-09-03T21:03:47.124418231+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-Es9XBS/LNni2gTraOggIVuOvXhdtI7AbHrKQ2QzIa3I=",
+        "darwin-arm64": "sha256-/tATEpt0l1htmUqnexwsSXytRnIrmQZdPqMow4ptr2s=",
+        "linux-amd64": "sha256-4TNEpGf7+2wDYuy9gMaB5cV3wi0Y+nV+R/pa8Pnh0Gw=",
+        "linux-arm64": "sha256-0LBITVuNwVF+R7ZEEHDy9+XH4OIhtjnpzIt4s2S5hT0="
       }
     },
     "9.36.0": {
