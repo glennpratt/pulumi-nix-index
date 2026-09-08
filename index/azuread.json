@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "azuread",
   "entries": {
+    "6.10.1": {
+      "observedAt": "2026-09-08T16:39:58.533430132+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-T6PsWBEhm0V7Xi5RxcygKzn7bMyaKO9LiueY1vLL6ug=",
+        "darwin-arm64": "sha256-IZgEo2XEylADpUx2ZkJpcgfrEOHyyDKSVVLJOt4Zr0Q=",
+        "linux-amd64": "sha256-YvJD246ytiJRRxVYxN1OvWkLP8LAVGyIJowtv61/u4Y=",
+        "linux-arm64": "sha256-AUhFGpDvAzAhv+6X/fFVaECoBkxVwfERaMiuxPY6P7Y="
+      }
+    },
     "6.10.0": {
       "observedAt": "2026-08-20T22:21:53.332141964+00:00",
       "hashes": {
