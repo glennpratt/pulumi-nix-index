@@ -26,7 +26,7 @@ concurrency:
 
 jobs:
   walk:
-    uses: glennpratt/pulumi2nix/.github/workflows/index-walk.yml@b4a6df895744af9c18023393d08b230d5470cde1
+    uses: glennpratt/pulumi2nix/.github/workflows/index-walk.yml@2af8b214a6a59a85b0d079060aa6c2be5b6285b0
     permissions:
       contents: write
       issues: write
