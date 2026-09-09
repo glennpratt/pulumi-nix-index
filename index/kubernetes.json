@@ -1305,44 +1305,44 @@
       "observedAt": "2026-08-22T01:51:45.688014471+00:00",
       "hashes": {
         "darwin-amd64": "sha256-pzUFfvAp1HxYNeB6jj+LKdB3xeDaZaBgLWTJs2pME/s=",
-        "linux-amd64": "sha256-AepCZth+l8Xvfe2QYyxQlBI9Zr0YXQvn0SiI/4oupOU=",
-        "linux-arm64": "sha256-f8QnM2hciiamDuUbjhiq81469yym/JH/GNCv5Vwm/lA="
+        "linux-amd64": "sha256-AepCZth+l8Xvfe2QYyxQlBI9Zr0YXQvn0SiI/4oupOU="
       },
       "misses": {
-        "darwin-arm64": "2026-08-22T01:51:45.688014471+00:00"
+        "darwin-arm64": "2026-08-22T01:51:45.688014471+00:00",
+        "linux-arm64": "2026-09-09T23:46:24.866888+00:00"
       }
     },
     "2.8.0": {
       "observedAt": "2026-08-22T01:51:45.688014471+00:00",
       "hashes": {
         "darwin-amd64": "sha256-QKOcQhzidddqD2vWMJli2P5f7SPyjkX/Gb986LaPtF8=",
-        "linux-amd64": "sha256-Pceju5PYFKlUtxkiZPRZk9zRDiPY70MoOukXdK69mNc=",
-        "linux-arm64": "sha256-ozajxdj/9bf2pcNeB6ZXvxD+m8IkrMJWrUy3f+SqG00="
+        "linux-amd64": "sha256-Pceju5PYFKlUtxkiZPRZk9zRDiPY70MoOukXdK69mNc="
       },
       "misses": {
-        "darwin-arm64": "2026-08-22T01:51:45.688014471+00:00"
+        "darwin-arm64": "2026-08-22T01:51:45.688014471+00:00",
+        "linux-arm64": "2026-09-09T23:46:24.866888+00:00"
       }
     },
     "2.7.8": {
       "observedAt": "2026-08-22T01:51:45.688014471+00:00",
       "hashes": {
         "darwin-amd64": "sha256-GB19PAzAszCtlInY+XCpcETJL6Kqa5vUhHl/OCa+ugc=",
-        "linux-amd64": "sha256-eOHBLP5sBOscRA7TTIoqtRozwL/KuhjXma+l4zj0ACo=",
-        "linux-arm64": "sha256-J0GML/hTwE/QEVhs18VGsUaglULdsZGWSSmudT5GGUA="
+        "linux-amd64": "sha256-eOHBLP5sBOscRA7TTIoqtRozwL/KuhjXma+l4zj0ACo="
       },
       "misses": {
-        "darwin-arm64": "2026-08-22T01:51:45.688014471+00:00"
+        "darwin-arm64": "2026-08-22T01:51:45.688014471+00:00",
+        "linux-arm64": "2026-09-09T23:46:24.866888+00:00"
       }
     },
     "2.7.7": {
       "observedAt": "2026-08-22T01:51:45.688014471+00:00",
       "hashes": {
         "darwin-amd64": "sha256-2CxuK/RfxBSLhbXQyj4xHhrAQRHJSA98pbRGrsTcb9s=",
-        "linux-amd64": "sha256-AYKRDe1mdIH4AVrBOQ3ItMkscDB6CjMFxAeZYvxIEvQ=",
-        "linux-arm64": "sha256-oN7Wmru9L/etUr+/ckSITLG/3aFBsB9UAzCUqkbW4pQ="
+        "linux-amd64": "sha256-AYKRDe1mdIH4AVrBOQ3ItMkscDB6CjMFxAeZYvxIEvQ="
       },
       "misses": {
-        "darwin-arm64": "2026-08-22T01:51:45.688014471+00:00"
+        "darwin-arm64": "2026-08-22T01:51:45.688014471+00:00",
+        "linux-arm64": "2026-09-09T23:46:24.866888+00:00"
       }
     },
     "2.7.6": {
