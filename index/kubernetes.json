@@ -3,13 +3,12 @@
   "provider": "kubernetes",
   "entries": {
     "4.34.2": {
-      "observedAt": null,
-      "hashes": {},
-      "misses": {
-        "darwin-amd64": "2026-09-18T20:55:49.652480664+00:00",
-        "darwin-arm64": "2026-09-18T20:55:49.652480664+00:00",
-        "linux-amd64": "2026-09-18T20:55:49.652480664+00:00",
-        "linux-arm64": "2026-09-18T20:55:49.652480664+00:00"
+      "observedAt": "2026-09-21T21:59:43.107003320+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-Wy9JCl06hRpOKkBLzV5VWLC2POAZ8BXI0RoaKvTWheQ=",
+        "darwin-arm64": "sha256-a8IHInEYtrv/ufWh4PUqkX/WwGKW03TcJw5DVDWNqzM=",
+        "linux-amd64": "sha256-sqNHGol9jUqlxvDqKTPTY9+nK+6O1lGhYkagnj5yi7Y=",
+        "linux-arm64": "sha256-FFbB+WJMTNaMrwOSjUw01oB8vmaP2RfGIg7MCeq3DSY="
       }
     },
     "4.34.1": {
