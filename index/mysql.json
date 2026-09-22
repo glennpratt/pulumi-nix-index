@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "mysql",
   "entries": {
+    "3.3.2": {
+      "observedAt": "2026-09-22T11:41:34.256754500+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-04rTr95OvzJOcnaZ8qQ/UXfqoIjMMAKybGlFTjFWXh4=",
+        "darwin-arm64": "sha256-bPm1BO2XdADsMdczMLZB1ipDxl0zQIvFYzBdhv6Yl6s=",
+        "linux-amd64": "sha256-2WrYTRwp1wRF0f085PyYljUsbh1nIrigY+O4Z21deNA=",
+        "linux-arm64": "sha256-hE9Zo3Rtuuas6oRra/nrSZy2SgQjoCEoW3dvvSvvRxU="
+      }
+    },
     "3.3.1": {
       "observedAt": "2026-08-21T01:58:39.497439205+00:00",
       "hashes": {
