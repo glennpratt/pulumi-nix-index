@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "eks",
   "entries": {
+    "4.4.0": {
+      "observedAt": "2026-09-25T21:36:23.693476598+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-/P6DD+paeRzT1jvOueg9UHazM9fd30LbRfG/tzVEAP4=",
+        "darwin-arm64": "sha256-SSvXvn1v5hqwmX+1GADZN1gVugxG9IJo6BmebiO2H0I=",
+        "linux-amd64": "sha256-znKgfPsZbnucHJXhxEzRxlHBugMW1HQP51F7DNXtzd4=",
+        "linux-arm64": "sha256-tjUhkfN+CfR48n3xNtFd3MbIRxZCQnMsCqdIeazSsMw="
+      }
+    },
     "4.3.0": {
       "observedAt": "2026-08-20T22:21:53.332141964+00:00",
       "hashes": {
