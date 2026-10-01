@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "akamai",
   "entries": {
+    "12.1.0": {
+      "observedAt": "2026-10-01T05:58:00.274454429+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-E5XDjR7rGxRlOz4vA+6FESFFOwzHouoxkCVReHzeBrM=",
+        "darwin-arm64": "sha256-ebOB8kx6I4F0R42E+2ux9kKT/RYeo3AvtqbIVrd4ml0=",
+        "linux-amd64": "sha256-1JGAyVwCwCzJ6zHyauUbp74w9VrD/6is1zw1KgA/F90=",
+        "linux-arm64": "sha256-WOtp4YxJBkZpVdei8KRCUnXryMnZ53kzVW+oe79pKpI="
+      }
+    },
     "12.0.0": {
       "observedAt": "2026-09-17T21:24:13.583999946+00:00",
       "hashes": {
