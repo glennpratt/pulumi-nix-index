@@ -2,6 +2,24 @@
   "version": 1,
   "provider": "gcp",
   "entries": {
+    "10.0.0": {
+      "observedAt": "2026-10-05T14:43:46.434191442+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-Buo7h69LhbcP2DAPWo3q0pYAhUcgAMthaOTXVVmTi8Y=",
+        "darwin-arm64": "sha256-qzx7foUfMsrsmA1gtgLJSZ6f54p+Lf5i+R6rqypAkNw=",
+        "linux-amd64": "sha256-JHhNFKuSlQ89y9tEb5nm2eju0zZVwj6FEdCAR0TMsC8=",
+        "linux-arm64": "sha256-wVMHt9Hy1ERf7Wv/rzbC94wRmRJ+ZtQxcOSoZdrpeuk="
+      }
+    },
+    "9.37.1": {
+      "observedAt": "2026-10-05T14:43:46.434191442+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-FKvXKByoTfGUFXxBL27o2V/iPzHYf+aR7/jTloKlJAA=",
+        "darwin-arm64": "sha256-o6/zz14dO3V1mlWZBXXfD0iJ5VdXJFZPflS4Im6hdcg=",
+        "linux-amd64": "sha256-+IVnp4zIDhwZpiu48+4dEoySJMLIQKq0g0s8sxkyoSk=",
+        "linux-arm64": "sha256-fw1rDlGU0nczfz9xe+qvAAPa4BBLmOH3u0iUMWwF57g="
+      }
+    },
     "9.37.0": {
       "observedAt": "2026-09-14T21:50:56.320490690+00:00",
       "hashes": {
