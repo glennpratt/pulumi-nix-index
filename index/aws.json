@@ -3,13 +3,12 @@
   "provider": "aws",
   "entries": {
     "7.49.0": {
-      "observedAt": null,
-      "hashes": {},
-      "misses": {
-        "darwin-amd64": "2026-10-07T13:27:11.896092978+00:00",
-        "darwin-arm64": "2026-10-07T13:27:11.896092978+00:00",
-        "linux-amd64": "2026-10-07T13:27:11.896092978+00:00",
-        "linux-arm64": "2026-10-07T13:27:11.896092978+00:00"
+      "observedAt": "2026-10-07T23:06:41.541350541+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-kOhXToeobFD2KHojwRlN0wBk6kJdhIzz92iLWvjS5+I=",
+        "darwin-arm64": "sha256-Z+turvNgbVn7uLLS09t3/BaDRj7AfCTwYePAuTUNUiE=",
+        "linux-amd64": "sha256-xlyyIc0KRum+RsAJLGp3TRvnxVWjtJFv0XzSSfsikQQ=",
+        "linux-arm64": "sha256-87oPwiZR6UKJbJTKZZXO0U3eWJSx153lq8z6IroEBiE="
       }
     },
     "7.48.0": {
