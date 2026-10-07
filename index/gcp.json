@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "gcp",
   "entries": {
+    "10.1.0": {
+      "observedAt": "2026-10-07T13:27:11.896092978+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-Ph7a3TJ81lZiUnYV+e9Y28ev3l0AAs7+aYqDzm56i5s=",
+        "darwin-arm64": "sha256-U0lwkow7a5KskDHvNwyC0Xwbi3qKlk0Tc1ypXLVHw/E=",
+        "linux-amd64": "sha256-ztqai9ULkHf8LEsTBD9vSJhk0ESIUEgDEvpO1L9GK6Q=",
+        "linux-arm64": "sha256-rtArimWlyKt2xUe4U/kpmsyqvksuf8bXgep60NM1AG8="
+      }
+    },
     "10.0.0": {
       "observedAt": "2026-10-05T14:43:46.434191442+00:00",
       "hashes": {
