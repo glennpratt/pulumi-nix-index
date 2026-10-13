@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "postgresql",
   "entries": {
+    "3.18.2": {
+      "observedAt": "2026-10-13T22:46:44.984107515+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-EOh7Pvp8Sn96SqluvsV3irN1bheclz6fRqz9otFn1ZA=",
+        "darwin-arm64": "sha256-6SZdG6axC2S+auOO+kbm6/EJ7pv+3PHpBT9l3gDBgdc=",
+        "linux-amd64": "sha256-6clDZ9pqk/ABlRcqFn9xRQNz9bOVceAUP3uR2cO+MdE=",
+        "linux-arm64": "sha256-06sT67px5JFdWOgvHLAcnRcw3Y3grLc7/UpZOQB855w="
+      }
+    },
     "3.18.1": {
       "observedAt": "2026-09-22T11:41:34.256754500+00:00",
       "hashes": {

@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "linode",
   "entries": {
+    "6.7.1": {
+      "observedAt": "2026-10-13T22:46:44.984107515+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-VSwzASMyE9fZVhIEP+UkhcqFgpZXVlOyiFtZA8+9WDM=",
+        "darwin-arm64": "sha256-oRZNIyz4Onct0RCBgCGc3p3M07m2+sqiHoeIjlcrZZE=",
+        "linux-amd64": "sha256-bl4sgT18a1fHX1B9/8h+FXkZzzY4qq6b8DCLWaA6SJA=",
+        "linux-arm64": "sha256-cChbxmiHPtf7QW0//s8VA1PAnDVOgU/Df7vN8ExLQZc="
+      }
+    },
     "6.7.0": {
       "observedAt": "2026-09-30T05:34:58.508623701+00:00",
       "hashes": {

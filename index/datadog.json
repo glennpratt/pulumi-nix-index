@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "datadog",
   "entries": {
+    "5.15.1": {
+      "observedAt": "2026-10-13T22:46:44.984107515+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-v8RRit332MMWrNMWvqBD2d7zls/kUFuyiIcAzOPZWWA=",
+        "darwin-arm64": "sha256-jmSSxG0hAREFX+CkTi3WqKn86R18lZY65Q6MvJYFF8Q=",
+        "linux-amd64": "sha256-qMLY24C0Can3pi0jVhmMo4HvU0Y3OaueZV2ccePDqGM=",
+        "linux-arm64": "sha256-msrBrE67xQiVm+fJiPlD6t9r3lpiRfoCCvzK7hdEP0w="
+      }
+    },
     "5.15.0": {
       "observedAt": "2026-10-08T06:07:56.435546765+00:00",
       "hashes": {
