@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "gitlab",
   "entries": {
+    "10.4.0": {
+      "observedAt": "2026-10-16T04:34:29.109901052+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-i7guqrjevjp0Noyp64AYIIRVXjGzHcE46QyN0Axefik=",
+        "darwin-arm64": "sha256-3sm++Rvk6vOxNiUHciVyK+wXGTggEx7zUPHVji5DOfQ=",
+        "linux-amd64": "sha256-SVY4O4zBXfZ29PDV2vstS9wuHTt3pz7h9Q7dQkY+Ktw=",
+        "linux-arm64": "sha256-TXipmTmXI8BzuXXxmYWKZRIq8RH4E4hGUQDhbkocYfQ="
+      }
+    },
     "10.3.2": {
       "observedAt": "2026-10-13T22:46:44.984107515+00:00",
       "hashes": {
