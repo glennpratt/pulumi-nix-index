@@ -3,13 +3,12 @@
   "provider": "random",
   "entries": {
     "4.21.4": {
-      "observedAt": null,
-      "hashes": {},
-      "misses": {
-        "darwin-amd64": "2026-10-16T11:27:11.467193909+00:00",
-        "darwin-arm64": "2026-10-16T11:27:11.467193909+00:00",
-        "linux-amd64": "2026-10-16T11:27:11.467193909+00:00",
-        "linux-arm64": "2026-10-16T11:27:11.467193909+00:00"
+      "observedAt": "2026-10-16T16:41:13.257447822+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-fGO6tnuWY49hytrwwZq3SC/2aM15BFCbeu8THS5vfeM=",
+        "darwin-arm64": "sha256-TME9u1u+l7UufAql33JXc/Y4FVqaEeGZ3cVcZ5jN/Sg=",
+        "linux-amd64": "sha256-cpcWmGzzTy5ifJMMQdttyb/uYkN/lXPi2hmLQt+gH/U=",
+        "linux-arm64": "sha256-4tTWxILO5eI998OWn6xEzsDKCtXrI2ZQs9aPVYpvQno="
       }
     },
     "4.21.3": {
