@@ -3,13 +3,12 @@
   "provider": "cloudflare",
   "entries": {
     "6.23.0": {
-      "observedAt": null,
-      "hashes": {},
-      "misses": {
-        "darwin-amd64": "2026-10-20T21:38:40.829273239+00:00",
-        "darwin-arm64": "2026-10-20T21:38:40.829273239+00:00",
-        "linux-amd64": "2026-10-20T21:38:40.829273239+00:00",
-        "linux-arm64": "2026-10-20T21:38:40.829273239+00:00"
+      "observedAt": "2026-10-21T04:51:21.983211707+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-q3Wb6f01JXIPjKTZpIYu4N7k9OjvPFZ7gyggwg4ZrLY=",
+        "darwin-arm64": "sha256-bBxmtRHhlH6paOc3/axrfwk7RFXi5IL3+2fnMRWkKto=",
+        "linux-amd64": "sha256-sPrNM1bdbEY9KzEWZE0Bxz7jc436CEstuR54heCJcGw=",
+        "linux-arm64": "sha256-XsWKs6S0duO8omQUDnBHyWfnu+9q8YbYnoQCub5cNls="
       }
     },
     "6.22.1": {
