@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "aws-native",
   "entries": {
+    "1.83.1": {
+      "observedAt": "2026-10-22T11:55:51.714373658+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-VUnCcI7ZTPVGIw/os/pB2241ew3UkKjgHGfyK7/8swg=",
+        "darwin-arm64": "sha256-OHCgApQqLmJTi9IajcV0kRVLbh2O0XOy2MqueZN96f0=",
+        "linux-amd64": "sha256-Hk/uiAJq5vtEk/H4f89DWlS95l2PypPDSaHCZLzz5ho=",
+        "linux-arm64": "sha256-B1/rf7g8Z6Ow4dBIZgFjW5UbfzVjd5li8W0DjVZn8fU="
+      }
+    },
     "1.83.0": {
       "observedAt": "2026-10-20T21:38:40.829273239+00:00",
       "hashes": {
