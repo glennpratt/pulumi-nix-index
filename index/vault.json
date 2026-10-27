@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "vault",
   "entries": {
+    "7.14.1": {
+      "observedAt": "2026-10-27T22:16:09.909002977+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-PFaIyn+c8zvPlvuzuL8XrKHKVRvylt7dcAGPxGdxn34=",
+        "darwin-arm64": "sha256-tvE3MUYNMLHbVaiNEcrjshnvFKRqGtRoSNFVoqvD248=",
+        "linux-amd64": "sha256-P2OMkaEpTH2Uh3RDfs3LW6FSlPRjnPdvoJykBLxMlXk=",
+        "linux-arm64": "sha256-tyXxvS7kqp/LQmfOZgKsHxVZRCCvnA4Ex7Hl8TyYkjA="
+      }
+    },
     "7.14.0": {
       "observedAt": "2026-10-15T04:42:20.799708847+00:00",
       "hashes": {
