@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "aws",
   "entries": {
+    "7.52.1": {
+      "observedAt": "2026-10-28T22:36:57.801373194+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-jWVIBKQG77uUNIqb9a0i5gvY5fWAOpZEpwObo7NHa+I=",
+        "darwin-arm64": "sha256-/F1EsFMaaf34/kfp8jgKU/5eQqq4r40Mi1Lgc7RIJWo=",
+        "linux-amd64": "sha256-LnBYJKIQPdbj3GZ0S6LVXK1V1mVHaz/82M4CTPTKsIE=",
+        "linux-arm64": "sha256-GXY2a3HcCNiCegT7uOr1Cg0exXV3JuWTttfCfnY22vg="
+      }
+    },
     "7.52.0": {
       "observedAt": "2026-10-27T12:14:51.231708922+00:00",
       "hashes": {
