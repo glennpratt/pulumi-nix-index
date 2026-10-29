@@ -3,13 +3,12 @@
   "provider": "eks",
   "entries": {
     "4.5.0": {
-      "observedAt": null,
-      "hashes": {},
-      "misses": {
-        "darwin-amd64": "2026-10-28T22:36:57.801373194+00:00",
-        "darwin-arm64": "2026-10-28T22:36:57.801373194+00:00",
-        "linux-amd64": "2026-10-28T22:36:57.801373194+00:00",
-        "linux-arm64": "2026-10-28T22:36:57.801373194+00:00"
+      "observedAt": "2026-10-29T13:04:58.664570549+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-IT/n0xL6ImQlVJbYZp6sXoRIaI5ftGcAmzeshzQHyZk=",
+        "darwin-arm64": "sha256-PCzZ5ugWwnb2/aFi0ryjxeQ685J884s4GDqVJoedIjg=",
+        "linux-amd64": "sha256-PUXfEPZT2sfpHJZNQhIPPReEXAwPUjLpdzaQ+YfjrjE=",
+        "linux-arm64": "sha256-S9/aDZKzLdH7rilL+q74Zs071953tOziqQ9QlKi0PCQ="
       }
     },
     "4.4.0": {
