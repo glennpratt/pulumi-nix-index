@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "random",
   "entries": {
+    "4.21.6": {
+      "observedAt": "2026-11-02T15:57:55.709651457+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-bDUhZnCfNTlHXOYaCYsLfxUvQPgw6uIf6JX9erOtoZE=",
+        "darwin-arm64": "sha256-8iKKhIq+0z483Z6xTVAaKGFSXPvMgczv03GuZCeEtFY=",
+        "linux-amd64": "sha256-0jCYphXNhZDgJuw9NslfAGF9k7CvFBZBYrgc8a+AgXQ=",
+        "linux-arm64": "sha256-yo8vXLCp4WK+D6VZuQs+NckoPfdj4nxJ6nhji2M5hL0="
+      }
+    },
     "4.21.5": {
       "observedAt": null,
       "hashes": {},

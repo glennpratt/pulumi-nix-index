@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "github",
   "entries": {
+    "6.15.1": {
+      "observedAt": "2026-11-02T15:57:55.709651457+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-nkZsA+FrnWfgPUyvE9om3eIrsi6Lx+O39tKvjGxDHNs=",
+        "darwin-arm64": "sha256-eayQJpAz2jj+viD91/6w7KhwlkLVOEdv04Q86oUZh44=",
+        "linux-amd64": "sha256-yTK5z2a4fXnQRx/8TZ4sY8pw2ELeXu039jmo66aJlTg=",
+        "linux-arm64": "sha256-EDfc0Z05FZYeD+k8tIp2H4U4wVko1IEXmRL6rbRa2IA="
+      }
+    },
     "6.15.0": {
       "observedAt": "2026-08-20T22:21:53.332141964+00:00",
       "hashes": {
