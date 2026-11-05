@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "cloudflare",
   "entries": {
+    "6.23.3": {
+      "observedAt": "2026-11-05T06:49:58.202174340+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-eiHTPhuwTkyS03fIO9kpW0xB3jiHJ+qqHl2w17HzDOk=",
+        "darwin-arm64": "sha256-TgQ+hCAECRJ+VIOcof5YRqFCKpJHmpkil3/IFU9zdgM=",
+        "linux-amd64": "sha256-u2/t8zKCzfJX7UcvuuuVF3u4sPt6LW/z6sQ1FeIiEck=",
+        "linux-arm64": "sha256-o85I/6lK/2BXxWzLM3rclBvP5S1kg299Om/9ldk66pE="
+      }
+    },
     "6.23.2": {
       "observedAt": "2026-10-28T05:45:02.679036021+00:00",
       "hashes": {
