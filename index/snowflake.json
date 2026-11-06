@@ -2,6 +2,15 @@
   "version": 1,
   "provider": "snowflake",
   "entries": {
+    "2.23.0": {
+      "observedAt": "2026-11-06T06:50:56.809240494+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-t07mxiRmJr2HrviXA+EgXldLgDb7gmIuD4VpfOrfbUo=",
+        "darwin-arm64": "sha256-FERtqNc7jPLucGrgey7Hs0GLltbxS0ZqSbIc9b48QcI=",
+        "linux-amd64": "sha256-fa6tUUfdMOOgFhZ5a3CYtiEczShN9XC6VikqYYDf50A=",
+        "linux-arm64": "sha256-b8G9cRzNCoVYEsuPFIHfor04VJF2OidMBhnTzmXRCto="
+      }
+    },
     "2.22.2": {
       "observedAt": "2026-10-31T05:45:15.196415089+00:00",
       "hashes": {
