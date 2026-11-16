@@ -65,6 +65,15 @@
         "linux-arm64": "sha256-wVMHt9Hy1ERf7Wv/rzbC94wRmRJ+ZtQxcOSoZdrpeuk="
       }
     },
+    "9.37.3": {
+      "observedAt": "2026-11-16T22:05:34.899301273+00:00",
+      "hashes": {
+        "darwin-amd64": "sha256-Uco4NnCce1rZcpx89Qfcqma+NGPJdtKGU1tg752+uv0=",
+        "darwin-arm64": "sha256-8nMo2qpntqbUSRLp2x1wpXjFJalclpr1L6stfp0GGAk=",
+        "linux-amd64": "sha256-UXcmBvtBRCte5shHwW3Bep1vGbrsBCcr35mASXNTt6s=",
+        "linux-arm64": "sha256-QwSVNjTW96IJHGOQP9AYQIs2vpyT85JFso0yhmXX+BE="
+      }
+    },
     "9.37.2": {
       "observedAt": "2026-11-03T00:59:33.917248239+00:00",
       "hashes": {
